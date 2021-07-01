@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dagajax
+- 👀 I’m interested in cloud development applications, especially projects about IoT. 
+- 🌱 I’m currently learning how to build a personal website to develop some web development skills.
+- 📫 Reach me at dagajax@gmail.com
